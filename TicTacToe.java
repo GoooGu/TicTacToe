@@ -16,8 +16,9 @@ import java.util.*;
   3 |  |  |  |
     ----------
 
-  User1 can input row number:2 and column number:3 
-                              to make a draw as following
+  For example, user1 can input 
+               row:2
+               column:3, to make a draw as following
      1  2  3
     ----------
   1 |  |  |  |
@@ -27,8 +28,9 @@ import java.util.*;
   3 |  |  |  |
     ----------
     
-  Now it come to user2's turn. For another example, if user2 wants to make
-  a draw at row:3 and column:1, the board will be changed as following:
+  Now it come to user2's turn. If user2 wants to make a draw at 
+      row:3 
+      column:1, the board will be changed as following:
 
      1  2  3
     ----------
